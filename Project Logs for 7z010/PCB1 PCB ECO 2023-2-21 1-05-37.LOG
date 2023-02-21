@@ -1,0 +1,68 @@
+Add Component: Footprint Not Found HR911130A
+Add Component: Footprint Not Found QFN50P400X400X80-25N-D
+Add Component: Footprint Not Found SOT23-6
+Add Component: Footprint Not Found SOT23-6
+Add Component: Footprint Not Found XTAL-1612-4P
+Add Pin To Net: Unknown Pin: Pin J3-11
+Add Pin To Net: Unknown Pin: Pin J3-12
+Add Pin To Net: Unknown Pin: Pin J3-13
+Add Pin To Net: Unknown Pin: Pin J3-14
+Add Pin To Net: Unknown Pin: Pin J3-15
+Add Pin To Net: Unknown Pin: Pin J3-16
+Add Pin To Net: Unknown Pin: Pin J3-P1
+Add Pin To Net: Unknown Pin: Pin J3-P2
+Add Pin To Net: Unknown Pin: Pin J3-P3
+Add Pin To Net: Unknown Pin: Pin J3-P4
+Add Pin To Net: Unknown Pin: Pin J3-P5
+Add Pin To Net: Unknown Pin: Pin J3-P6
+Add Pin To Net: Unknown Pin: Pin J3-P7
+Add Pin To Net: Unknown Pin: Pin J3-P8
+Add Pin To Net: Unknown Pin: Pin J3-P9
+Add Pin To Net: Unknown Pin: Pin J3-P10
+Add Pin To Net: Unknown Pin: Pin U6-1
+Add Pin To Net: Unknown Pin: Pin U6-2
+Add Pin To Net: Unknown Pin: Pin U6-3
+Add Pin To Net: Unknown Pin: Pin U10-1
+Add Pin To Net: Unknown Pin: Pin U10-2
+Add Pin To Net: Unknown Pin: Pin U10-3
+Add Pin To Net: Unknown Pin: Pin U10-4
+Add Pin To Net: Unknown Pin: Pin U10-5
+Add Pin To Net: Unknown Pin: Pin U10-6
+Add Pin To Net: Unknown Pin: Pin U10-7
+Add Pin To Net: Unknown Pin: Pin U10-9
+Add Pin To Net: Unknown Pin: Pin U10-11
+Add Pin To Net: Unknown Pin: Pin U10-16
+Add Pin To Net: Unknown Pin: Pin U10-17
+Add Pin To Net: Unknown Pin: Pin U10-18
+Add Pin To Net: Unknown Pin: Pin U10-19
+Add Pin To Net: Unknown Pin: Pin U10-20
+Add Pin To Net: Unknown Pin: Pin U10-21
+Add Pin To Net: Unknown Pin: Pin U10-22
+Add Pin To Net: Unknown Pin: Pin U10-23
+Add Pin To Net: Unknown Pin: Pin U10-24
+Add Pin To Net: Unknown Pin: Pin U10-25
+Add Pin To Net: Unknown Pin: Pin U11-1
+Add Pin To Net: Unknown Pin: Pin U11-2
+Add Pin To Net: Unknown Pin: Pin U11-3
+Add Pin To Net: Unknown Pin: Pin U11-4
+Add Pin To Net: Unknown Pin: Pin U11-5
+Add Pin To Net: Unknown Pin: Pin U11-6
+Add Pin To Net: Unknown Pin: Pin U12-1
+Add Pin To Net: Unknown Pin: Pin U12-2
+Add Pin To Net: Unknown Pin: Pin U12-3
+Add Pin To Net: Unknown Pin: Pin U12-4
+Add Pin To Net: Unknown Pin: Pin U12-5
+Add Pin To Net: Unknown Pin: Pin U12-6
+Add Pin To Net: Unknown Pin: Pin U14-42
+Add Pin To Net: Unknown Pin: Pin U14-43
+Add Pin To Net: Unknown Pin: Pin U14-47
+Add Pin To Net: Unknown Pin: Pin U14-49
+Add Pin To Net: Unknown Pin: Pin X3-1
+Add Pin To Net: Unknown Pin: Pin X3-2
+Add Pin To Net: Unknown Pin: Pin X3-3
+Add Pin To Net: Unknown Pin: Pin X3-4
+Add Class Member: Failed to add class member : Component J3 HR911130A
+Add Class Member: Failed to add class member : Component U10 TXS02612RTWR
+Add Class Member: Failed to add class member : Component U11 74LVC1T45W6-7
+Add Class Member: Failed to add class member : Component U12 74LVC1T45W6-7
+Add Class Member: Failed to add class member : Component X3 25MHz

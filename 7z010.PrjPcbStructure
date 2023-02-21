@@ -1,12 +1,13 @@
-Record=TopLevelDocument|FileName=BANK0.SchDoc|SheetNumber=2
-Record=NoMainPathDocument|SourceDocument=BANK0.SchDoc|FileName=BANK34_35.SchDoc|SheetNumber=3
-Record=NoMainPathDocument|SourceDocument=BANK0.SchDoc|FileName=BANK500_501.SchDoc|SheetNumber=4
-Record=NoMainPathDocument|SourceDocument=BANK0.SchDoc|FileName=BANK502.SchDoc|SheetNumber=5
-Record=NoMainPathDocument|SourceDocument=BANK0.SchDoc|FileName=DDR3.SchDoc|SheetNumber=7
-Record=NoMainPathDocument|SourceDocument=BANK0.SchDoc|FileName=ETH.SchDoc|SheetNumber=9
-Record=NoMainPathDocument|SourceDocument=BANK0.SchDoc|FileName=FLASH.SchDoc|SheetNumber=8
-Record=NoMainPathDocument|SourceDocument=BANK0.SchDoc|FileName=HDMI.SchDoc|SheetNumber=10
-Record=NoMainPathDocument|SourceDocument=BANK0.SchDoc|FileName=IO_LED.SchDoc|SheetNumber=12
-Record=NoMainPathDocument|SourceDocument=BANK0.SchDoc|FileName=POWER.SchDoc|SheetNumber=1
-Record=NoMainPathDocument|SourceDocument=BANK0.SchDoc|FileName=USB.SchDoc|SheetNumber=11
-Record=NoMainPathDocument|SourceDocument=BANK0.SchDoc|FileName=ZYNQ_POWER.SchDoc|SheetNumber=6
+Record=TopLevelDocument|FileName=TOP.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=TOP.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=DDR3.SchDoc|SheetNumber=8|SymbolType=Normal|RawFileName=DDR3.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=TOP.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=FLASH.SchDoc|SheetNumber=9|SymbolType=Normal|RawFileName=FLASH.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=TOP.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=BANK34_35.SchDoc|SheetNumber=4|SymbolType=Normal|RawFileName=BANK34_35.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=TOP.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=POWER.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=POWER.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=TOP.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=USB.SchDoc|SheetNumber=12|SymbolType=Normal|RawFileName=USB.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=TOP.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=HDMI.SchDoc|SheetNumber=11|SymbolType=Normal|RawFileName=HDMI.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=TOP.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=BANK0.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=BANK0.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=TOP.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=ZYNQ_POWER.SchDoc|SheetNumber=7|SymbolType=Normal|RawFileName=ZYNQ_POWER.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=TOP.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=ETH.SchDoc|SheetNumber=10|SymbolType=Normal|RawFileName=ETH.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=TOP.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=BANK500_501.SchDoc|SheetNumber=5|SymbolType=Normal|RawFileName=BANK500_501.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=TOP.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=IO_LED.SchDoc|SheetNumber=13|SymbolType=Normal|RawFileName=IO_LED.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=TOP.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=BANK502.SchDoc|SheetNumber=6|SymbolType=Normal|RawFileName=BANK502.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 

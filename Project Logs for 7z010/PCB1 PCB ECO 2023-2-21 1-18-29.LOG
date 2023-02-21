@@ -1,0 +1,78 @@
+Added Component: Designator=J3(HR911130A)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.lcsc.com/szlcsc/Zhongshan-HanRun-Elec-HR911130A_C54408.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "13mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Hanrun Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "HR911130A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Testing Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Testing Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add Component: Footprint Not Found QFN50P400X400X80-25N-D
+Add Component: Footprint Not Found SOT23-6
+Add Component: Footprint Not Found SOT23-6
+Add Component: Footprint Not Found XTAL-1612-4P
+Added Pin To Net: NetName=NetJ3_11 Pin=J3-11
+Added Pin To Net: NetName=GND Pin=J3-12
+Added Pin To Net: NetName=PHY_LED0 Pin=J3-13
+Added Pin To Net: NetName=NetJ3_14 Pin=J3-14
+Added Pin To Net: NetName=NetJ3_15 Pin=J3-15
+Added Pin To Net: NetName=NetJ3_15 Pin=J3-16
+Added Pin To Net: NetName=NetC98_2 Pin=J3-P1
+Added Pin To Net: NetName=PHY_MDI0_P Pin=J3-P2
+Added Pin To Net: NetName=PHY_MDI0_N Pin=J3-P3
+Added Pin To Net: NetName=PHY_MDI1_P Pin=J3-P4
+Added Pin To Net: NetName=PHY_MDI2_P Pin=J3-P5
+Added Pin To Net: NetName=PHY_MDI2_N Pin=J3-P6
+Added Pin To Net: NetName=PHY_MDI1_N Pin=J3-P7
+Added Pin To Net: NetName=PHY_MDI3_P Pin=J3-P8
+Added Pin To Net: NetName=PHY_MDI3_N Pin=J3-P9
+Added Pin To Net: NetName=GND Pin=J3-P10
+Add Pin To Net: Unknown Pin: Pin U6-1
+Add Pin To Net: Unknown Pin: Pin U6-2
+Add Pin To Net: Unknown Pin: Pin U6-3
+Add Pin To Net: Unknown Pin: Pin U10-1
+Add Pin To Net: Unknown Pin: Pin U10-2
+Add Pin To Net: Unknown Pin: Pin U10-3
+Add Pin To Net: Unknown Pin: Pin U10-4
+Add Pin To Net: Unknown Pin: Pin U10-5
+Add Pin To Net: Unknown Pin: Pin U10-6
+Add Pin To Net: Unknown Pin: Pin U10-7
+Add Pin To Net: Unknown Pin: Pin U10-9
+Add Pin To Net: Unknown Pin: Pin U10-11
+Add Pin To Net: Unknown Pin: Pin U10-16
+Add Pin To Net: Unknown Pin: Pin U10-17
+Add Pin To Net: Unknown Pin: Pin U10-18
+Add Pin To Net: Unknown Pin: Pin U10-19
+Add Pin To Net: Unknown Pin: Pin U10-20
+Add Pin To Net: Unknown Pin: Pin U10-21
+Add Pin To Net: Unknown Pin: Pin U10-22
+Add Pin To Net: Unknown Pin: Pin U10-23
+Add Pin To Net: Unknown Pin: Pin U10-24
+Add Pin To Net: Unknown Pin: Pin U10-25
+Add Pin To Net: Unknown Pin: Pin U11-1
+Add Pin To Net: Unknown Pin: Pin U11-2
+Add Pin To Net: Unknown Pin: Pin U11-3
+Add Pin To Net: Unknown Pin: Pin U11-4
+Add Pin To Net: Unknown Pin: Pin U11-5
+Add Pin To Net: Unknown Pin: Pin U11-6
+Add Pin To Net: Unknown Pin: Pin U12-1
+Add Pin To Net: Unknown Pin: Pin U12-2
+Add Pin To Net: Unknown Pin: Pin U12-3
+Add Pin To Net: Unknown Pin: Pin U12-4
+Add Pin To Net: Unknown Pin: Pin U12-5
+Add Pin To Net: Unknown Pin: Pin U12-6
+Add Pin To Net: Unknown Pin: Pin U14-42
+Add Pin To Net: Unknown Pin: Pin U14-43
+Add Pin To Net: Unknown Pin: Pin U14-47
+Add Pin To Net: Unknown Pin: Pin U14-49
+Add Pin To Net: Unknown Pin: Pin X3-1
+Add Pin To Net: Unknown Pin: Pin X3-2
+Add Pin To Net: Unknown Pin: Pin X3-3
+Add Pin To Net: Unknown Pin: Pin X3-4
+Added Member To Class: ClassName=ETH Member=Component J3 HR911130A
+Add Class Member: Failed to add class member : Component U10 TXS02612RTWR
+Add Class Member: Failed to add class member : Component U11 74LVC1T45W6-7
+Add Class Member: Failed to add class member : Component U12 74LVC1T45W6-7
+Add Class Member: Failed to add class member : Component X3 25MHz

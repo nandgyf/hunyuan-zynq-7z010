@@ -1,0 +1,83 @@
+Added Component: Designator=U10(QFN24 4x4_L)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "TXS02612RTWR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/txs02612rtwr/texas-instruments?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.ti.com/lit/gpn/txs02612"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TXS02612RTWR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "595-TXS02612RTWR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TXS02612RTWR?qs=dqESbKqT1jaNFKC1R4M7hw%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Testing Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Testing Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U11(SOT23-6L)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "74LVC1T45W6-7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/74lvc1t45w6-7/diodes-incorporated?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.diodes.com/assets/Datasheets/74LVC1T45.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.4mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Diodes Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "74LVC1T45W6-7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "621-74LVC1T45W6-7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Diodes-Incorporated/74LVC1T45W6-7?qs=Oxncjon6mbp2oDYwZRj9AA%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Testing Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Testing Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U12(SOT23-6L)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "74LVC1T45W6-7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/74lvc1t45w6-7/diodes-incorporated?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.diodes.com/assets/Datasheets/74LVC1T45.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.4mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Diodes Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "74LVC1T45W6-7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "621-74LVC1T45W6-7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Diodes-Incorporated/74LVC1T45W6-7?qs=Oxncjon6mbp2oDYwZRj9AA%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Testing Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Testing Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=X3(OSC 1612-4P)
+Add component (AddParameter): Name = "BOM名称"; Value = "4脚无源晶振"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin U6-1
+Add Pin To Net: Unknown Pin: Pin U6-2
+Add Pin To Net: Unknown Pin: Pin U6-3
+Added Pin To Net: NetName=SD0_D2 Pin=U10-1
+Added Pin To Net: NetName=GND Pin=U10-2
+Added Pin To Net: NetName=SD0_D3 Pin=U10-3
+Added Pin To Net: NetName=SD0_CMD Pin=U10-4
+Added Pin To Net: NetName=3V3 Pin=U10-5
+Added Pin To Net: NetName=SD0_D0 Pin=U10-6
+Added Pin To Net: NetName=SD0_D1 Pin=U10-7
+Added Pin To Net: NetName=SD0_SCK Pin=U10-9
+Added Pin To Net: NetName=GND Pin=U10-11
+Added Pin To Net: NetName=NetJ2_8 Pin=U10-16
+Added Pin To Net: NetName=3V3 Pin=U10-17
+Added Pin To Net: NetName=NetJ2_7 Pin=U10-18
+Added Pin To Net: NetName=NetJ2_5 Pin=U10-19
+Added Pin To Net: NetName=NetJ2_3 Pin=U10-20
+Added Pin To Net: NetName=3V3 Pin=U10-21
+Added Pin To Net: NetName=NetJ2_2 Pin=U10-22
+Added Pin To Net: NetName=NetJ2_1 Pin=U10-23
+Added Pin To Net: NetName=NetR82_2 Pin=U10-24
+Added Pin To Net: NetName=GND Pin=U10-25
+Added Pin To Net: NetName=3V3 Pin=U11-1
+Added Pin To Net: NetName=GND Pin=U11-2
+Added Pin To Net: NetName=CH340_TXD Pin=U11-3
+Added Pin To Net: NetName=ZYNQ_UART1_RXD Pin=U11-4
+Added Pin To Net: NetName=3V3 Pin=U11-5
+Added Pin To Net: NetName=1V8 Pin=U11-6
+Added Pin To Net: NetName=3V3 Pin=U12-1
+Added Pin To Net: NetName=GND Pin=U12-2
+Added Pin To Net: NetName=ZYNQ_UART1_TXD Pin=U12-3
+Added Pin To Net: NetName=CH340_RXD Pin=U12-4
+Added Pin To Net: NetName=1V8 Pin=U12-5
+Added Pin To Net: NetName=3V3 Pin=U12-6
+Add Pin To Net: Unknown Pin: Pin U14-42
+Add Pin To Net: Unknown Pin: Pin U14-43
+Add Pin To Net: Unknown Pin: Pin U14-47
+Add Pin To Net: Unknown Pin: Pin U14-49
+Added Pin To Net: NetName=NetC100_2 Pin=X3-1
+Added Pin To Net: NetName=GND Pin=X3-2
+Added Pin To Net: NetName=NetC101_2 Pin=X3-3
+Added Pin To Net: NetName=GND Pin=X3-4
+Added Member To Class: ClassName=FLASH Member=Component U10 TXS02612RTWR
+Added Member To Class: ClassName=FLASH Member=Component U11 74LVC1T45W6-7
+Added Member To Class: ClassName=FLASH Member=Component U12 74LVC1T45W6-7
+Added Member To Class: ClassName=ETH Member=Component X3 26M
